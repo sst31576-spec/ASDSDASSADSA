@@ -1,1 +1,1 @@
-
+game.Players.LocalPlayer:Kick("There are currently no tests in progress for testers.")
